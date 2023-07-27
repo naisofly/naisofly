@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Naiyarah. A Web Developer from Sri Lanka and Senior Developer Relations Manager at Lightning AI. I am an experienced Developer Advocate with a demonstrated history of working with developers from Open Source communities, enterprises, startups & universities. I'm skilled in solving problems using Machine Learning and AI, like Malware Analysis, Object & Gesture Recognition, Natural Language to name a few.
+I'm Naiyarah. A Web Developer & Machine Learning Engineer from Sri Lanka and Developer Relations Manager at SurrealDB. I am an experienced Developer Advocate with a demonstrated history of working with developers from Open Source communities, enterprises, startups & universities. I'm skilled in solving problems using Machine Learning and AI, specializing in Natural Language, Object & Gesture Recognition, Ethical AI, and Malware Analysis.
      <br><br>Contact me on <a href="https://twitter.com/naisofly">Twitter</a>, <a href="https://www.linkedin.com/in/naiyarah/">Linkedin</a>, or <a href="mailto:naiyarah.h@gmail.com">Send an Email</a>
   </samp>
 </p>
